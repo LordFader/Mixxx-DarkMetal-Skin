@@ -10,9 +10,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="900"
+   width="1000"
    height="45"
-   viewBox="0 0 900 45"
+   viewBox="0 0 1000 45"
    id="svg2"
    version="1.1"
    inkscape:version="0.92.1 r15371"
@@ -93,7 +93,8 @@
        id="clipPath174">
       <path
          id="path176"
-         d="m 2,1 13,0 0,32 13,0 0,-16 13,0 0,48 13,0 0,64 -52,0 z" />
+         d="M 2,1 H 15 V 33 H 28 V 17 h 13 v 48 h 13 v 64 H 2 Z"
+         inkscape:connector-curvature="0" />
     </clipPath>
   </defs>
   <sodipodi:namedview
@@ -104,21 +105,27 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.87916035"
-     inkscape:cx="435.27122"
+     inkscape:cx="532.5231"
      inkscape:cy="52.919282"
      inkscape:document-units="px"
      inkscape:current-layer="g4183"
      showgrid="false"
      units="px"
-     inkscape:window-width="1386"
-     inkscape:window-height="619"
-     inkscape:window-x="439"
-     inkscape:window-y="75"
-     inkscape:window-maximized="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1028"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
      objecttolerance="10"
      guidetolerance="9"
      showguides="true"
-     inkscape:guide-bbox="true" />
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="499.34008,-94.408261"
+       orientation="1,0"
+       id="guide4510"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -127,7 +134,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
         <dc:creator>
           <cc:Agent>
             <dc:title>Jorge Rosa</dc:title>
@@ -151,7 +158,7 @@ Site:https://sites.google.com/site/jorgerosaportfolio</dc:description>
          transform="translate(0.27924905)">
         <g
            id="g4519"
-           transform="translate(27.322518,1.5930277)">
+           transform="translate(77.322518,1.5930277)">
           <path
              inkscape:connector-curvature="0"
              id="path9"

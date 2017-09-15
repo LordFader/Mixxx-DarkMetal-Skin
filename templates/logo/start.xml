@@ -5,7 +5,7 @@
 	<WidgetGroup>
 	<ObjectName>MyLogoRow</ObjectName>
 	<Pos>0,0</Pos>
-	<MinimumSize>1,46</MinimumSize>
+	<MinimumSize>1,45</MinimumSize>
 	<SizePolicy>me,f</SizePolicy>
 	<Layout>horizontal</Layout>
 	<Children>
@@ -38,7 +38,7 @@
 		
 		<WidgetGroup>
 		<ObjectName>MyLogo</ObjectName>
-		<MinimumSize>900,45</MinimumSize>
+		<MinimumSize>1000,45</MinimumSize>
 		<SizePolicy>f,f</SizePolicy>
 		<BackPath>skin:graphics-logos/logo_<Variable name="mylogo"/>.svg</BackPath>
 		<Children><!-- MY LOGO --></Children>
