@@ -1,8 +1,4 @@
-<p align="center">
- 
 # Mixxx skin: Dark Metal
- 
-</p>
 
 <p align="center">In the image: Many color shemes</p>
 
