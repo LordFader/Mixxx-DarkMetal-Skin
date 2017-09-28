@@ -10,14 +10,14 @@ Video tutorial on youtube:
 
 [![youtube-video](https://i.ytimg.com/vi/-FIc3iiHDeU/2.jpg?time=1506578782944)](https://www.youtube.com/watch?v=-FIc3iiHDeU&list=PLnhzSMPecj1HXo5IGrNFYiGyy6fHZYPTL&index=41 "DarkMetal Skin - Video Tutorial")
 
+=================================================================================
+
 **DARK METAL SKIN FEATURES:**
 
 1) 100% Scalable Vector Graphics (SVG) - 100% Quality lossless graphics - Not even one bitmat anywhere.
 2) Fully resizable - Small screen users can use it too - All elements must fit nicely in all resolutions. Please note that If your resolution is too small, some racks (rows) may overlap, but even so you still can disable their visibility (there are lots of buttons, in the top bar, for that. These buttons are always visible, no matter what, even you "enable" everything). Ready from 1024x550, to... infinity and beyound.
 3) Mixxx features - Contains the lattest Mixxx features - But... I´m sure that not all tasks arent done, so I´m always sharping the graphics, correcting issues, adding forgotten and/or new stuff, etc...
 4) Unique features - Contains unique and original features (I´ll try to add features not available anywhere else, but they must be functional too, of course) Like the analog VUs, the digital font, a grey only color scheme (A tribute to 1927´s Metropolis film), strobe lights, your own logos, etc, etc... Our imagination versus the code will be the limit...
-
-=================================================================================
 
 **How-Tos...**
 
@@ -75,12 +75,7 @@ LICENCE: Creative Commons - Attribution 3.0 Unported - https://creativecommons.o
 
 ---------------------------------------------------------------------------------
 
-Tutorial Video: https://www.youtube.com/watch?v=-FIc3iiHDeU&index=40&list=PLnhzSMPecj1HXo5IGrNFYiGyy6fHZYPTL
-
-DARK METAL skin at MIXXX forums: http://www.mixxx.org/forums/viewtopic.php?t=6052
-	
----------------------------------------------------------------------------------
-
+- DARK METAL webpage (at MIXXX forums): http://www.mixxx.org/forums/viewtopic.php?t=6052
 - This project at GITHUB: https://github.com/jorgerosa/Mixxx-DarkMetal-Skin
 - This project at SOURCEFORGE.NET: https://sourceforge.net/u/jorgerosa/profile
 - Developer: Jorge Rosa *(Portugal - With love to ASCR)*
