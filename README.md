@@ -1,4 +1,4 @@
-# Mixxx skin: Dark Metal
+# Mixxx: Dark Metal Skin
 
 <p align="center">In the image: Many color shemes</p>
 
@@ -18,7 +18,7 @@
 
 ---------------------------------------------------------------------------------
 
-**DARK METAL SKIN FEATURES:**
+**DARK METAL Skin Features:**
 
 1) 100% Scalable Vector Graphics (SVG) - 100% Quality lossless graphics - Not even one bitmat anywhere.
 2) Fully resizable - Small screen users can use it too - All elements must fit nicely in all resolutions. Please note that If your resolution is too small, some racks (rows) may overlap, but even so you still can disable their visibility (there are lots of buttons, in the top bar, for that. These buttons are always visible, no matter what, even you "enable" everything). Ready from 1024x550, to... infinity and beyound.
@@ -29,7 +29,7 @@
 
 **How-Tos...**
 
-**HOW-TO:** Install Dark Metak Skin?...
+**How-To:** Install Dark Metak Skin?...
 1) Note: Don´t forget to backup any "logo_x.svg" file(s)... *IF you already have created any logo before.*
 2) Note: Remove any older version of "DarkMetal". *(Just delete the "DarkMetal" folder... IF you already have one)*
 3) Download and unzip the "DarkMetal.zip" archive. *(~1.5Mb file size)*
@@ -38,24 +38,24 @@
 7) Start your Mixxx, then go to "Options" --> "Preferences" --> "Interface" --> "Skin" --> Select "DarkMetal" option.
 8) Done!...
 
-**HOW-TO:** Change between the three available type of "strob lights"?... (squared/rounded/line)
+**How-To:** Change between the three available type of "strob lights"?... (squared/rounded/line)
 1) Open the "skin.xml" search and replace the variable "strobtype"´s value by "1", "2" or "3".
 2) Save the file. Reload the skin... Done!...
 
-**HOW-TO:** Change between the three available spinning "discs"?... (bobine/cd/vinyl)
+**How-To:** Change between the three available spinning "discs"?... (bobine/cd/vinyl)
 1) Open the "skin.xml" search and replace the variable "spinnytype"´s value by "1", "2" or "3".
 2) Save the file. Reload the skin... Done!...
 
-**HOW-TO:** Select one from the many available color schemes?...
+**How-To:** Select one from the many available color schemes?...
 1) Start your Mixxx, then go to "Options" > "Preferences" > "Interface" > "Color scheme" > select a color from that list.
 2) Done!...
 
-**HOW-TO:** Create my own custom color scheme?...
+**How-To:** Create my own custom color scheme?...
 1) Open the "skin.xml" file.
 2) Create a new <Scheme> group, play with <HConst> and <SConst> values (see the existent ones there as examples), save that file and reload the skin to test it (this is done by selecting the "DarkMetal" skin again, from that dropdown menu). And... If the result is great, don´t forget to share it with us!!
 3) Done!...
 
-**HOW-TO:** Create and display my own logo?...
+**How-To:** Create and display my own logo?...
 1) Open any "logo_x.svg" file. These files are located at the "graphics-logos" folder. (You may use INKSCAPE to open/edit or create a new logo file)
 2) Draw your own logo, or just type your texts there. (Texts must be converted to paths, before saving the file)
 3) Open the "skin.xml" search and replace the variable "mylogo"´s value by "1", "2", "3", "4", "5", etc, etc... (Just set the variable to the number of the "logo_x.svg" file that you intend to be displayed)
@@ -63,14 +63,14 @@
 
 ---------------------------------------------------------------------------------
 
-**The "making of" Dark Metal skin:**
+**The "making of" Dark Metal skin...**
 
-**TOOLS:**
+**Tools:**
 1) Notepad++ (My preferred to edit XML files): https://notepad-plus-plus.org ...OR... The "modernish" Atom: https://atom.io
 2) INKSCAPE (To draw the vectorial graphics): https://inkscape.org
 3) SVG Explorer Extension (Very handy and useful since it generates SVG thumbnails in the Windows´s explorer): https://svgextension.codeplex.com/releases/view/118790 ...OR... For GNU/Linux users, one from these (choose only the ones with SVG support, of course): http://www.tuxarena.com/2011/02/top-5-i ... ntukubuntu
 
-**TIPS:**
+**Tips:**
 1) The included SVG files in this skin, not only are the screen displayed "images", but they are the EDITABLE/WORKING files too, so they can be opened and customized by anyone else too. You just need to have INKSCAPE or similar.
 2) Avoid Corel Draw - Very powerfull and great software, but it adds extra proprietary metadata in the SVG files, what results in huge file sizes and it converts shadows into bitmaps. Besides all that, most of those files just can´t be parsed with Mixxx, or any other "standard" opensource SVG parser.
 3) Always export SVG files (from INKSCAPE) with all texts converted to paths!
