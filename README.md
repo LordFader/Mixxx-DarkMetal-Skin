@@ -1,4 +1,4 @@
-# Mixxx skin: Dark Metal
+<p align="center"># Mixxx skin: Dark Metal</p>
 
 <p align="center">In the image: Many color shemes</p>
 
@@ -20,7 +20,9 @@
 
 <p align="center">
   
+  
 [![youtube-video](https://i.ytimg.com/vi/-FIc3iiHDeU/2.jpg?time=1506578782944)](https://www.youtube.com/watch?v=-FIc3iiHDeU&list=PLnhzSMPecj1HXo5IGrNFYiGyy6fHZYPTL&index=41 "DarkMetal Skin - Video Tutorial")
+
 
 </p>
 
