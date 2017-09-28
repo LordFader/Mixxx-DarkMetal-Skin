@@ -3,19 +3,19 @@
 In the image: Many color shemes
 
 <p align="center">
-![mixxx_dark_metal](https://user-images.githubusercontent.com/5511928/30951578-ad43a4ee-a41b-11e7-9cc4-1d1be1ffcde7.jpg)
+  ![mixxx_dark_metal](https://user-images.githubusercontent.com/5511928/30951578-ad43a4ee-a41b-11e7-9cc4-1d1be1ffcde7.jpg)
 </p>
 
 In the image: Overall features
 
 <p align="center">
-![mixxx_dark_metal](https://user-images.githubusercontent.com/5511928/30951605-dd3ff47c-a41b-11e7-95bc-c33723fde798.jpg)
+  ![mixxx_dark_metal](https://user-images.githubusercontent.com/5511928/30951605-dd3ff47c-a41b-11e7-95bc-c33723fde798.jpg)
 </p>
 
 Video tutorial on youtube:
 
 <p align="center">
-[![youtube-video](https://i.ytimg.com/vi/-FIc3iiHDeU/2.jpg?time=1506578782944)](https://www.youtube.com/watch?v=-FIc3iiHDeU&list=PLnhzSMPecj1HXo5IGrNFYiGyy6fHZYPTL&index=41 "DarkMetal Skin - Video Tutorial")
+  [![youtube-video](https://i.ytimg.com/vi/-FIc3iiHDeU/2.jpg?time=1506578782944)](https://www.youtube.com/watch?v=-FIc3iiHDeU&list=PLnhzSMPecj1HXo5IGrNFYiGyy6fHZYPTL&index=41 "DarkMetal Skin - Video Tutorial")
 </p>
 
 ---------------------------------------------------------------------------------
