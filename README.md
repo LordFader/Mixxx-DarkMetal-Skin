@@ -10,7 +10,7 @@ Video tutorial on youtube:
 
 [![youtube-video](https://i.ytimg.com/vi/-FIc3iiHDeU/2.jpg?time=1506578782944)](https://www.youtube.com/watch?v=-FIc3iiHDeU&list=PLnhzSMPecj1HXo5IGrNFYiGyy6fHZYPTL&index=41 "DarkMetal Skin - Video Tutorial")
 
-=================================================================================
+---------------------------------------------------------------------------------
 
 **DARK METAL SKIN FEATURES:**
 
@@ -19,7 +19,7 @@ Video tutorial on youtube:
 3) Mixxx features - Contains the lattest Mixxx features - But... I´m sure that not all tasks arent done, so I´m always sharping the graphics, correcting issues, adding forgotten and/or new stuff, etc...
 4) Unique features - Contains unique and original features (I´ll try to add features not available anywhere else, but they must be functional too, of course) Like the analog VUs, the digital font, a grey only color scheme (A tribute to 1927´s Metropolis film), strobe lights, your own logos, etc, etc... Our imagination versus the code will be the limit...
 
-=================================================================================
+---------------------------------------------------------------------------------
 
 **How-Tos...**
 
@@ -55,7 +55,7 @@ Video tutorial on youtube:
 3) Open the "skin.xml" search and replace the variable "mylogo"´s value by "1", "2", "3", "4", "5", etc, etc... (Just set the variable to the number of the "logo_x.svg" file that you intend to be displayed)
 4) Save all the files. Reload the skin... Done!...
 
-=================================================================================
+---------------------------------------------------------------------------------
 
 **The "making of" Dark Metal skin:**
 
