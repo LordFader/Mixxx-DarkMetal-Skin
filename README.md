@@ -18,11 +18,7 @@
 
 ---------------------------------------------------------------------------------
 
-<p align="center">
- 
 **DARK METAL SKIN FEATURES:**
-
-</p>
 
 1) 100% Scalable Vector Graphics (SVG) - 100% Quality lossless graphics - Not even one bitmat anywhere.
 2) Fully resizable - Small screen users can use it too - All elements must fit nicely in all resolutions. Please note that If your resolution is too small, some racks (rows) may overlap, but even so you still can disable their visibility (there are lots of buttons, in the top bar, for that. These buttons are always visible, no matter what, even you "enable" everything). Ready from 1024x550, to... infinity and beyound.
@@ -31,11 +27,7 @@
 
 ---------------------------------------------------------------------------------
 
-<p align="center">
- 
 **How-Tos...**
-
-</p>
 
 **HOW-TO:** Install Dark Metak Skin?...
 1) Note: Don´t forget to backup any "logo_x.svg" file(s)... *IF you already have created any logo before.*
@@ -71,11 +63,7 @@
 
 ---------------------------------------------------------------------------------
 
-<p align="center">
-
 **The "making of" Dark Metal skin:**
-
-</p>
 
 **TOOLS:**
 1) Notepad++ (My preferred to edit XML files): https://notepad-plus-plus.org ...OR... The "modernish" Atom: https://atom.io
