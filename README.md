@@ -7,6 +7,7 @@ In the image: Overall features
 ![mixxx_dark_metal](https://user-images.githubusercontent.com/5511928/30951605-dd3ff47c-a41b-11e7-95bc-c33723fde798.jpg)
 
 Video tutorial on youtube:
+
 [![youtube-video](https://i.ytimg.com/vi/-FIc3iiHDeU/2.jpg?time=1506578782944)](https://www.youtube.com/watch?v=-FIc3iiHDeU&list=PLnhzSMPecj1HXo5IGrNFYiGyy6fHZYPTL&index=41 "DarkMetal Skin - Video Tutorial")
 
 **DARK METAL SKIN FEATURES:**
