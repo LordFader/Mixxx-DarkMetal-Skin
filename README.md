@@ -1,7 +1,7 @@
-<p align="center">
-  
 # Mixxx skin: Dark Metal
 
+<p align="center">
+  
 In the image: Many color shemes
 
 ![mixxx_dark_metal](https://user-images.githubusercontent.com/5511928/30951578-ad43a4ee-a41b-11e7-9cc4-1d1be1ffcde7.jpg)
