@@ -869,16 +869,15 @@
 		Laptop Battery
 		**********************************************
 		-->
-			
+		
 		<WidgetGroup>				
 		<ObjectName>LaptopBattery</ObjectName>		
 		<MinimumSize>65,50</MinimumSize>
 		<SizePolicy>f,f</SizePolicy>
 		<Children>		
 		<Battery>	
-		<!-- <MaximumSize><Variable name="SquareButtonMaximumSize"/></MaximumSize> -->
 		<Pos>0,0</Pos>		
-		<BackPath><!-- empty --></BackPath>		
+		<BackPath>skin:graphics/battery_backpath.svg</BackPath>		
 	    <PixmapUnknown>skin:graphics/battery_state_unknown.svg</PixmapUnknown>
 	    <PixmapCharged>skin:graphics/battery_state_full.svg</PixmapCharged>
 		<NumberStates>6</NumberStates>		
@@ -887,7 +886,7 @@
 	    </Battery>
 		</Children>
 		</WidgetGroup>
-
+		
 		<WidgetGroup><!-- Design -->
 		<ObjectName>VerticalLine</ObjectName>
 		<MinimumSize>3,50</MinimumSize>
