@@ -876,11 +876,11 @@
 		<SizePolicy>f,f</SizePolicy>
 		<Children>		
 		<Battery>	
-		<Pos>0,0</Pos>		
+		<Pos>0,0</Pos>
+		<NumberStates>6</NumberStates>
 		<BackPath>skin:graphics/battery_backpath.svg</BackPath>		
 	    <PixmapUnknown>skin:graphics/battery_state_unknown.svg</PixmapUnknown>
-	    <PixmapCharged>skin:graphics/battery_state_full.svg</PixmapCharged>
-		<NumberStates>6</NumberStates>		
+	    <PixmapCharged>skin:graphics/battery_state_full.svg</PixmapCharged>			
 	    <PixmapsCharging>skin:graphics/battery_state_%1.svg</PixmapsCharging>
 	    <PixmapsDischarging>skin:graphics/battery_state_%1.svg</PixmapsDischarging>
 	    </Battery>

@@ -21,7 +21,7 @@
 
 	##################################################################################################################
 
-	INSTALL:
+	INSTALL: (IMPORTANT: Don´t forget to backup any "logo_x.svg" file(s)... IF you already have created any logo before)
 	1 • Remove any older version of "DarkMetal" (Just delete the "DarkMetal" folder), if you already have one.
 	2 • Download and unzip the "DarkMetal.zip" archive.
 	3 • Move the new folder (with all contents), to your Mixxx skins folder.
@@ -197,7 +197,7 @@
 	</attributes>
 	</manifest>
 
-	<!-- START: (The intro splash screen) -->
+	<!-- START: (The mixxx intro | splash screen) -->
 	<LaunchImageStyle>
     LaunchImage { background-color:#000000; }
     QLabel { image:url(skin:graphics/start.svg); padding:0px; margin:0px; margin-bottom:20px; border:none; min-width:400px; max-width:400px; min-height:50px; max-height:50px; }
@@ -208,7 +208,7 @@
 	<!--
 	SCHEMES COLORS:	
 	The "best" color to start is "light purple": (HSV) 265,45,219 == (HEX) #c4b4db (Mixxx HUE values are from 0 to 359)
-	Tool: http://www.mrfloresreads.info/remixes/mixxxschemeutil.html#tool	
+	Online tool: http://www.mrfloresreads.info/remixes/mixxxschemeutil.html#tool	
 
 	General guide of HSV values for this skin: 
 	<HConst>: 0 purples original, +30 purples dark, +50 purples bright, +70 magentas, +90 browns, + 180 greens, +280 blues , +359 pinks ...
@@ -466,7 +466,7 @@
 	<!-- LAYOUT GLOBALS -->
 	<ObjectName>Mixxx</ObjectName>
 	<Background><BgColor>#000000</BgColor></Background>
-	<Style src="skin:styles.qss"/> <!-- Includes the QT styles file -->
+	<Style src="skin:styles.qss"/> <!-- Including the QT styles file -->
 	<MinimumSize>1024,550</MinimumSize>
 	<SizePolicy>me,me</SizePolicy>
 	<Layout>vertical</Layout>
